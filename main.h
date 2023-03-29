@@ -6,6 +6,7 @@
 #include <stdarg.h>
 #include <unistd.h>
 #include <limits.h>
+#include <string.h>
 
 #define OUTPUT_BUFF_SIZE 1024
 #define BUFF_FLUSH -1
